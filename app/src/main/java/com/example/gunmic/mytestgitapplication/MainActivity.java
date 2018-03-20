@@ -23,5 +23,10 @@ public class MainActivity extends AppCompatActivity {
         Log.d("test_log", "Log im Branch 1");
         Log.d("test_log", "Log im Branch 2");
 
+        /*
+        Neuer Commit im Branch2
+        Möchte diesen Branch nun zum Master hinzufügen....
+         */
+
     }
 }
