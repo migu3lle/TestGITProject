@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Ich bin ein Test");
         Log.d("test_log", "Hallo ich bin ein Test Logeintrag");
+        Log.d("test_log", "Hallo ich bin ein neuer Test Logeintrag");
     }
 }
